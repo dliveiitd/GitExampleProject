@@ -1,2 +1,0 @@
-# GitExampleProject
-Just a repository
